@@ -1,0 +1,122 @@
+{
+    "articles": [
+        {
+            "title": "Breaking News: Market Soars",
+            "description": "The stock market saw an unexpected rise today, with major indexes up significantly.",
+            "url": "https://example.com/market-soars",
+            "urlToImage": "https://example.com/images/market.jpg"
+        },
+        {
+            "title": "Technology: New AI Revolution",
+            "description": "A new AI breakthrough is changing the way businesses operate globally.",
+            "url": "https://example.com/ai-revolution",
+            "urlToImage": "https://example.com/images/ai.jpg"
+        },
+        {
+            "title": "Sports: Championship Results",
+            "description": "The championship final ended with a stunning victory for the underdogs.",
+            "url": "https://example.com/championship-results",
+            "urlToImage": "https://example.com/images/championship.jpg"
+        },
+        {
+            "title": "Health: Benefits of Meditation",
+            "description": "A new study highlights the health benefits of regular meditation practices.",
+            "url": "https://example.com/meditation-benefits",
+            "urlToImage": "https://example.com/images/meditation.jpg"
+        },
+        {
+            "title": "Politics: Election Campaign Heats Up",
+            "description": "The upcoming election sees candidates ramping up their campaigns as voting day nears.",
+            "url": "https://example.com/election-campaign",
+            "urlToImage": "https://example.com/images/election.jpg"
+        },
+        {
+            "title": "Travel: Top Destinations for 2024",
+            "description": "Explore the top vacation destinations for 2024 that promise breathtaking experiences.",
+            "url": "https://example.com/top-destinations",
+            "urlToImage": "https://example.com/images/destinations.jpg"
+        },
+        {
+            "title": "Environment: Ocean Cleanup Efforts",
+            "description": "A new initiative aims to clean up millions of tons of plastic waste from the ocean.",
+            "url": "https://example.com/ocean-cleanup",
+            "urlToImage": "https://example.com/images/ocean-cleanup.jpg"
+        },
+        {
+            "title": "Entertainment: Movie of the Year Announced",
+            "description": "The top movie of the year has been announced, winning acclaim from critics and audiences.",
+            "url": "https://example.com/movie-of-the-year",
+            "urlToImage": "https://example.com/images/movie.jpg"
+        },{
+            "title": "Technology: New AI Revolution",
+            "description": "A new AI breakthrough is changing the way businesses operate globally.",
+            "url": "https://example.com/ai-revolution",
+            "urlToImage": "https://example.com/images/ai.jpg"
+        },
+        {
+            "title": "Sports: Championship Results",
+            "description": "The championship final ended with a stunning victory for the underdogs.",
+            "url": "https://example.com/championship-results",
+            "urlToImage": "https://example.com/images/championship.jpg"
+        },
+        {
+            "title": "Health: Benefits of Meditation",
+            "description": "A new study highlights the health benefits of regular meditation practices.",
+            "url": "https://example.com/meditation-benefits",
+            "urlToImage": "https://example.com/images/meditation.jpg"
+        },
+        {
+            "title": "Politics: Election Campaign Heats Up",
+            "description": "The upcoming election sees candidates ramping up their campaigns as voting day nears.",
+            "url": "https://example.com/election-campaign",
+            "urlToImage": "https://example.com/images/election.jpg"
+        },
+        {
+            "title": "Travel: Top Destinations for 2024",
+            "description": "Explore the top vacation destinations for 2024 that promise breathtaking experiences.",
+            "url": "https://example.com/top-destinations",
+            "urlToImage": "https://example.com/images/destinations.jpg"
+        },
+        {
+            "title": "Environment: Ocean Cleanup Efforts",
+            "description": "A new initiative aims to clean up millions of tons of plastic waste from the ocean.",
+            "url": "https://example.com/ocean-cleanup",
+            "urlToImage": "https://example.com/images/ocean-cleanup.jpg"
+        },
+        {
+            "title": "Entertainment: Movie of the Year Announced",
+            "description": "The top movie of the year has been announced, winning acclaim from critics and audiences.",
+            "url": "https://example.com/movie-of-the-year",
+            "urlToImage": "https://example.com/images/movie.jpg"
+        },{
+            "title": "Politics: Election Campaign Heats Up",
+            "description": "The upcoming election sees candidates ramping up their campaigns as voting day nears.",
+            "url": "https://example.com/election-campaign",
+            "urlToImage": "https://example.com/images/election.jpg"
+        },
+        {
+            "title": "Travel: Top Destinations for 2024",
+            "description": "Explore the top vacation destinations for 2024 that promise breathtaking experiences.",
+            "url": "https://example.com/top-destinations",
+            "urlToImage": "https://example.com/images/destinations.jpg"
+        },
+        {
+            "title": "Environment: Ocean Cleanup Efforts",
+            "description": "A new initiative aims to clean up millions of tons of plastic waste from the ocean.",
+            "url": "https://example.com/ocean-cleanup",
+            "urlToImage": "https://example.com/images/ocean-cleanup.jpg"
+        },
+        {
+            "title": "Entertainment: Movie of the Year Announced",
+            "description": "The top movie of the year has been announced, winning acclaim from critics and audiences.",
+            "url": "https://example.com/movie-of-the-year",
+            "urlToImage": "https://example.com/images/movie.jpg"
+        },
+        {
+            "title": "Environment: Ocean Cleanup Efforts",
+            "description": "A new initiative aims to clean up millions of tons of plastic waste from the ocean.",
+            "url": "https://example.com/ocean-cleanup",
+            "urlToImage": "https://example.com/images/ocean-cleanup.jpg"
+        }
+    ]
+}
